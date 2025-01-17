@@ -1,0 +1,2 @@
+# dns-check
+dns-check
