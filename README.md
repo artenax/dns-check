@@ -1,3 +1,5 @@
+This utility allows you to resolve the IP address of a domain, HTTP2/3 and ECH support from the DNS response, and hosting. DoH is supported.
+
 # Usage
 ```
 dns-check --help
