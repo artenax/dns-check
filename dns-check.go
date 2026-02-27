@@ -1,4 +1,3 @@
-// by Ori
 package main
 
 import (
@@ -76,7 +75,7 @@ var (
 
 	// https://rdap-bootstrap.arin.net/bootstrap/ip/
 	// https://rdap.arin.net/registry/ip/
-	_registry = "https://rdap-bootstrap.arin.net/bootstrap/ip/"
+	_registry = "https://rdap.arin.net/registry/ip/"
 )
 
 func init() {
@@ -425,3 +424,4 @@ func check(err error) {
 		os.Exit(1)
 	}
 }
+
