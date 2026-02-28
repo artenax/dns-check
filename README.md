@@ -4,7 +4,7 @@ By Ori.
 # Usage
 ```
 dns-check --help
-dns-check +cloudflare-dns.com google.com
+dns-check +1.1.1.1 google.com
 ```
 
 # Build
